@@ -7,6 +7,8 @@ public class TestGit {
         System.out.println("测试");
         System.out.println("测试冲突");
 
+        System.out.println("测试Pull");
+
     }
 
 }
